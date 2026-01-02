@@ -1,0 +1,2 @@
+react ma component ko function banaunu parxa
+like aba button cha bhane function button() {} define garna paryo app components ma
